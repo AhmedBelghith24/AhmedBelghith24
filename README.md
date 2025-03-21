@@ -6,11 +6,12 @@ I'm **Ahmed Belghith** –  a passionate and detail-oriented Full Stack Develope
 
 ### 👨🏻‍💻  Things I code with
 
-![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png)  
-![React](https://raw.githubusercontent.com/github/explore/main/topics/react/react.png)  
-![Node.js](https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png)  
-![MongoDB](https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png)  
-![Tailwind CSS](https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png)
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 ---
 
 ### 🔭 Projects
