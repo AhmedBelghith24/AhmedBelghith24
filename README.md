@@ -26,7 +26,7 @@ I'm **Ahmed Belghith** –  a passionate and detail-oriented Full Stack Develope
 ### 🔭 Projects
 
 I've built a variety of projects—from personal experiments to full-scale web applications. Here are a few highlights:
-- **[My Portfolio](#):** 👋 Welcome To My Portfolio, Built With React JS! This Site Showcases My Projects, Skills, And Creative Journey Using Modern, Interactive Web Design. 🚀 Explore My Work And Drop Me A Message 📬 To Learn More About How I Bring Ideas To Life.
+- **[My Portfolio]((https://github.com/AhmedBelghith24/portfolio)):** 👋 Welcome To My Portfolio, Built With React JS! This Site Showcases My Projects, Skills, And Creative Journey Using Modern, Interactive Web Design. 🚀 Explore My Work And Drop Me A Message 📬 To Learn More About How I Bring Ideas To Life.
 
 
 Feel free to check out my repositories for more details!
