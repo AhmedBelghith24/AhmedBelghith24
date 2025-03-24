@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&width=435&lines=Hello+I+am+Ahmed+Belghith%2C+Software+Engineer+and+a+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&width=435&lines=+I+am+Ahmed+Belghith)](https://git.io/typing-svg)
 
 ### 🙋‍♂️  About me 
 I am a passionate and detail-oriented Full Stack Developer 💻 from Tunisia 🇹🇳 with expertise in building dynamic, responsive, and user-friendly web applications. Proficient in React ⚛️, Redux 🔄, Node.js 🟩, Express 🚀, MongoDB 🍃, and Mongoose, I specialize in crafting seamless full-stack solutions. My skill set also includes modern front-end technologies like Tailwind CSS 🌬️, JavaScript 💡, HTML 📄, and CSS 🎨, ensuring visually appealing and efficient designs.
